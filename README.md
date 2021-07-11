@@ -10,7 +10,7 @@ Module 6 - Challenge 6 : Proptech Dysfunction Junction
 
 ## Technologies
 
-Jupyter notebooks and the Pandas data analysis library were used in the creation of this project. MCForecast Tools were also used to create expected probabilities over the course of 10 and 30 year projections. The Alpaca API was used for the current market prices of AGG and SPY. 
+Jupyter notebooks and the Pandas data analysis library were used in the creation of this project. The Mapbox API was leveraged to display results of a price per square foot vs gross rent analysis.
 
 ---
 
