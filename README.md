@@ -41,7 +41,7 @@ pip install plotly
 
 In order for this simulation to work, the user needs to create a .env file containing their Mapbox API key. 
 
-This notebook was created using python 3.7.10. There were a number of issues with the packages within this specific conda environment, and I definitely taking time to troubleshoot any package discrepencies that may arise. 
+This notebook was created using python 3.7.10. There were a number of issues with the packages within this specific conda environment, and I definitely recommend taking time to troubleshoot any package discrepencies that may arise. 
 
 ---
 
